@@ -118,6 +118,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 # Signature
 
-ФИО: Гейне Михаил Антонович
+ФИО: Вохрамеев Михаил Викторович
 
-Группа: ИУ6-12А
+Группа: ИУ6-35Б
